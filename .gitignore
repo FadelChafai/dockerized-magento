@@ -1,7 +1,9 @@
-web
 composer.lock
 composer.phar
 vendor
 db
+data
 .vagrant
 .DS_Store
+.idea
+logs
